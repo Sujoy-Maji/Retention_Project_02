@@ -5,3 +5,4 @@ import numpy as np
 # Outlier treatment: Capping extreme ADR (Average Daily Rate) values
 # Feature Engineering: Total duration of stay
 df['total_stay'] = df['stays_in_weekend_nights'] + df['stays_in_week_nights']
+# Exporting cleaned dataset to data/processed/
