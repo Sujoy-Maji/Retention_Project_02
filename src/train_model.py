@@ -3,3 +3,5 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score
 from sklearn.metrics import roc_auc_score, roc_curve
 # Hyperparameter tuning and model training execution
+import joblib
+# Exporting final model
