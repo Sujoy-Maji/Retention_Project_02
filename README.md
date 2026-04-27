@@ -4,3 +4,7 @@
 ## Strategic Business Recommendations
 1. Implement dynamic pricing rules during high-cancellation lead times.
 2. Launch targeted email retention campaigns offering specialized discounts to high-risk segments.
+## Repository Structure
+- /data: Ignored raw datasets
+- /notebooks: EDA and experimentation
+- /src: Production pipelines
