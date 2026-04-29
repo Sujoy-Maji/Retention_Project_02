@@ -20,5 +20,7 @@ In the highly competitive travel sector, unoptimized pricing and unpredictable c
 * **Predictive Modeling:** Python (`Scikit-Learn`) utilized to train, test, and tune a Logistic Regression classifier, evaluated via ROC-AUC and Confusion Matrices.
 * **Business Intelligence:** Interactive dashboards designed in **Tableau** to visualize the booking curve and seasonal pricing fluctuations.
 
+## 📸 Dashboard Preview
+![Dashboard Preview](assets/dashboard_preview.png)
 ---
 *Note: To comply with enterprise data privacy standards, all raw `.csv` datasets containing sensitive hospitality records are secured locally and ignored via `.gitignore`.*
