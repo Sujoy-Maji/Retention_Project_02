@@ -8,3 +8,5 @@
 - /data: Ignored raw datasets
 - /notebooks: EDA and experimentation
 - /src: Production pipelines
+## Final Delivery and Submission
+This repository contains the finalized data pipeline, predictive models, and Tableau dashboards for the Travel and Hospitality churn analysis.
